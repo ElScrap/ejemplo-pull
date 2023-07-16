@@ -1,2 +1,2 @@
-# Repositorio para practicar pull
+# Repositorio para practicar pull (probando el fetch)
 reposito para practicar
